@@ -3,11 +3,11 @@
 ## Tech Stack
 donaldww/elixir is built on the following main stack:
 
-- [Erlang](http://www.erlang.org/) – Languages
 - [Elixir](http://elixir-lang.org/) – Languages
+- [Erlang](http://www.erlang.org/) – Languages
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -17,11 +17,11 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 donaldww/elixir is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1004/cbdf77412da183e43d41c0c0f9a7005a.jpeg' alt='Erlang'/> [Erlang](http://www.erlang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1974/drop.png' alt='Elixir'/> [Elixir](http://elixir-lang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1004/cbdf77412da183e43d41c0c0f9a7005a.jpeg' alt='Erlang'/> [Erlang](http://www.erlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [donaldww/elixir](https://github.com/donaldww/elixir)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|01/05/24 <br/>Report generated|
+|7<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
